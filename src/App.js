@@ -31,6 +31,7 @@ export default function App() {
       <div>
         <input className="input-img" type="password" />
       </div>
+      <button>Add Comment</button>
     </>
   );
 }
