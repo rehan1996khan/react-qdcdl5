@@ -1,0 +1,20 @@
+h1,
+p {
+  font-family: Lato;
+}
+.Hello-img {
+  background-color: cyan;
+  height: auto;
+  border-radius: 10px;
+  width: auto;
+  margin-left: 3px;
+}
+.p-img {
+  margin-left: 0.7rem;
+  margin-right: 0.5rem;
+}
+.input-img {
+  border-radius: 0.3rem;
+  width: 15rem;
+  height: 7rem;
+}
